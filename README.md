@@ -1,4 +1,4 @@
-# Eleventy (11ty) blog starter
+# Eleventy (11ty) Blog Starter
 
 ![Eleventy Blog Starter preview.](eleventy-blog-starter.jpg)
 
@@ -13,7 +13,7 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/eleventy-blog-starter)
 
 
-## Getting started
+## Getting Started
 
 1. Clone this Repository
 
@@ -41,7 +41,7 @@ npm run build
 
 Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
 
-## Project structure
+## Project Structure
 
 - `content/blog/` has the blog posts but really they can live in any directory. They need only the `posts` tag to be included in the blog posts [collection](https://www.11ty.dev/docs/collections/).
 - Use the `eleventyNavigation` key (via the [Eleventy Navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)) in your front matter to add a template to the top level site navigation. This is in use on `content/index.njk` and `content/about/index.md`.
