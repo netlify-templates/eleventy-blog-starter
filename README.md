@@ -1,6 +1,10 @@
 # Eleventy (11ty) blog starter
 
+![Eleventy Blog Starter preview.](eleventy-blog-starter.jpg)
+
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/). 
+
+** View demo:** [https://eleventy-blog-starter-demo.netlify.app/](https://eleventy-blog-starter-demo.netlify.app/)
 
 ## Deploying to Netlify
 
